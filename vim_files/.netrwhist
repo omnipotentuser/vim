@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/nbuchanan/sites/agency_emulator/views'
+let g:netrw_dirhist_2='/home/nbuchanan/sites/acd/ruby/ACD/config/deploy/nginx/conf.d'
+let g:netrw_dirhist_3='/home/nbuchanan/sites/acd/ruby/ACD/app/views'
+let g:netrw_dirhist_4='/home/nbuchanan/cloud9/plugins-client/cloud9.core'
+let g:netrw_dirhist_5='/home/nbuchanan/sites/acd/ruby/ACD/lib/classes'
+let g:netrw_dirhist_6='/usr/local/freeswitch/conf/dialplan/default'
