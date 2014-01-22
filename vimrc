@@ -11,5 +11,6 @@ set ignorecase
 set smartcase
 set nu
 set ttyfast
+set runtimepath^=~/.vim/bundle/ctrlp.vim
 autocmd FileType ruby compiler ruby
 colo zellner
