@@ -9,6 +9,7 @@ set tabstop=2 shiftwidth=2 softtabstop=2
 set autoindent
 set ignorecase
 set smartcase
+set cursorline
 set nu
 set ttyfast
 set runtimepath^=~/.vim/bundle/ctrlp.vim
