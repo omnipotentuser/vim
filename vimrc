@@ -15,3 +15,4 @@ set ttyfast
 set runtimepath^=~/.vim/bundle/ctrlp.vim
 autocmd FileType ruby compiler ruby
 colo zellner
+:let g:session_autosave = 'no'
